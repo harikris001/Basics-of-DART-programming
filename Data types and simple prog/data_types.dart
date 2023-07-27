@@ -19,6 +19,7 @@ void main()
 final String unchangable = 'immutable';
 print("Unchangable string: ${unchangable}");
 const int number = 25;
+print("Const variable ${number}");
 
 
   // to print number of letters
